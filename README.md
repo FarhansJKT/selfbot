@@ -20,7 +20,7 @@
 ## `Run`
 
 ```bash
-npm start
+> npm start
 
 Terus scan...
 
@@ -29,6 +29,8 @@ Terus scan...
 ## ```How to Deploy```
 
 [`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+
+----------
 
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
